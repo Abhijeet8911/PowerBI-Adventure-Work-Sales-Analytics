@@ -2,11 +2,10 @@
 The Adventure Work dataset provides a comprehensive view of customer data, product information, sales transactions, territories, and returns, enabling analysis and insights into various aspects of the business.
 ## Dashboard
 ![Dashboard](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/61e325e8-85f4-4a63-8756-f89d13f8dcfb)
-
-## Data Model
-![Model View](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/ed2b27e6-fdf3-426f-97a6-fb6b7da5db73)
 ![Dashboard 2](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/68b5cd00-812b-4d9f-9125-a4f89d8e890a)
 ![Dashboard 3](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/d115b13c-5b97-4546-88ab-06317d955696)
+## Data Model
+![Model View](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/ed2b27e6-fdf3-426f-97a6-fb6b7da5db73)
 
 ▶️Q. What is the total sales revenue for a whole period?<br />
 🟢   $25 Million is the total sales revenue from Jan 2015 to June 2017
