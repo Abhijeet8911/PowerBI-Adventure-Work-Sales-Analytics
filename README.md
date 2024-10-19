@@ -1,6 +1,7 @@
 # PowerBI-Adventure-Work-Sales-Analytics
 The Adventure Work dataset provides a comprehensive view of customer data, product information, sales transactions, territories, and returns, enabling analysis and insights into various aspects of the business.
 ## Dashboard
+🔗Interactive Report Link: https://app.powerbi.com/view?r=eyJrIjoiYTM3N2M1ZDktMDRhOS00YWFmLTk2ZDktOTQ0MmU4YjAzMTMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
 ![Dashboard](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/61e325e8-85f4-4a63-8756-f89d13f8dcfb)
 ![Dashboard 2](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/68b5cd00-812b-4d9f-9125-a4f89d8e890a)
 ![Dashboard 3](https://github.com/Abhijeet8911/PowerBI-Adventure-Work-Sales-Analytics/assets/88017168/d115b13c-5b97-4546-88ab-06317d955696)
